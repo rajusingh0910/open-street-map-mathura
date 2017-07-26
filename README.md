@@ -59,7 +59,7 @@ the csv files are obtained using ahmedabad_sample.osm because processing the ahm
 * `ways_csv: 107 KB`
 * `ways_nodes.csv: 310 KB`
 * `ways_tags.csv: 93.3 KB`
-* `ahmedabad.db: 1.46MB`
+* `mathura.db: 1.46MB`
 
 ###Number of nodes:
 ``` python
